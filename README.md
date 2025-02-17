@@ -50,10 +50,20 @@ This tutorial outlines how to set up Gophish to simulate a phishing attack and e
 <p>Now that you have a functional setup, play around with the various settings to generate realistic (in your context) phishing templates. In the minimum, you'll need to configure:
 
 - Users & groups to send the simulated phishing emails
-- Phishing email templates, including attachments
+- Phishing email templates, including attachments [use their user guide for templates https://docs.getgophish.com/user-guide/documentation/attachments?ref=alphasec.io]
 - Sending profiles to specify sending SMTP relay details
 - Landing pages returned to users when they click the phishing links</p>
 
 ![image](https://github.com/user-attachments/assets/636cf006-92b6-4b5a-b7e5-3c53e03bf731)
 
 <h2>Configuring Users & Groups</h2>
+
+<p>When creating an users make sure to have at least one email you have access to. So you can see what the phishing looks like for end users.</p>
+
+![image](https://github.com/user-attachments/assets/46ab65ec-585a-4c53-a20d-90f5b24dd805)
+
+<h2>Configuring Email Templates</h2>
+
+<p>Here you can see an example of an email template filled out with the gophish_word.docx attached as the phishing scam.</p>
+
+![image](https://github.com/user-attachments/assets/2290b487-a7c2-4c8a-a504-76e7cdc81bef)
