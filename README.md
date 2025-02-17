@@ -67,3 +67,16 @@ This tutorial outlines how to set up Gophish to simulate a phishing attack and e
 <p>Here you can see an example of an email template filled out with the gophish_word.docx attached as the phishing scam.</p>
 
 ![image](https://github.com/user-attachments/assets/2290b487-a7c2-4c8a-a504-76e7cdc81bef)
+
+
+<h2>Launching Campaign</h2>
+
+<p>Once you have configured the above settings, it's time to create and launch a campaign. Navigate to the Campaigns page and click New Campaign. Most of the fields are self-explanatory and use the templates configured earlier; the URL is the domain of the Gophish listener. Click Launch Campaign to trigger the campaign.</p>
+
+![image](https://github.com/user-attachments/assets/25aacfe1-d042-4253-9c92-d148ffd2f46f)
+
+![image](https://github.com/user-attachments/assets/b4acc11b-7fed-4252-86ed-7cc30088904a)
+
+<hr>
+
+<p>Now you have successfully simulated a phishing attack. Of course, this does not exactly have everything when it comes to phishing, but it is a good simulation to develop a deeper understanding of how phishing works. </p>
