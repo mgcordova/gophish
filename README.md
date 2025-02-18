@@ -20,7 +20,7 @@ This tutorial outlines how to set up Gophish to simulate a phishing attack and e
 - Set up the Phishing Attack, Users, Groups, and Templates
 - Deploy the Campaign and Analyze
 
-<h2>Installation Steps</h2>
+<h2>Railway Account Creation</h2>
 
 <p>The first step is to create a Railway account, sign up using GitHub, and click "Authorize Railway app" when you are redirected. </p>
 
