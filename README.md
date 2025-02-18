@@ -13,9 +13,12 @@ This tutorial outlines how to set up Gophish to simulate a phishing attack and e
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Stepss</h2>
 
-- Enabling Internet Information Services (IIS) with CGI
+- Creating a Railway account
+- Deploy the Gophish Docker image
+- Set up the Phishing Attack, Users, Groups, and Templates
+- Campaign and Analyze
 
 <h2>Installation Steps</h2>
 
